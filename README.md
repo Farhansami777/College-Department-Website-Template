@@ -1,4 +1,4 @@
-# EI-website
+# EI-website-Template
 This is FrontEnd design of Department/College website .
 Main file is the index file from where front page of website can be acccessed.
 There are other pages like blog,contact,course and about page.
